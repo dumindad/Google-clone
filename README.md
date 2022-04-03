@@ -1,14 +1,14 @@
 # Google-clone - The Most Unique Search Engine in the World
 
-![Google-clone](https://i.ibb.co/yQdYhtq/image.png)
+demo - https://new-google.netlify.app/search
 
+<img src="src/images/google.png">
 ## Introduction
+This is a Google Clone Application using React and Google Search API powered by https://rapidapi.com.
 
-
-In this, we create a Google Clone app. We're going to use React and Goole Search API powered by https://rapidapi.com.
-
-
+## Used dependencies
+tailwind css , @craco/craco , react-router-dom , react-player , react-doader-spinner , use-debounce 
 
 Setup:
-- run ```npm i && npm start``` to start the development server
+- run ``npm start`` to start the development server
 
